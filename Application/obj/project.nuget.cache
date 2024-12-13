@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AkHmpMkKCXPD1/rEKhpDfB0zqRsT4UJI5Z0zwZPbogPJS+igymVjIcE5LxJyiYyyrFI6+SkaEMny24Tvwh/F7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pache\\OneDrive\\Escritorio\\exports\\practica\\BasicNetTask\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pache\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\Pache\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

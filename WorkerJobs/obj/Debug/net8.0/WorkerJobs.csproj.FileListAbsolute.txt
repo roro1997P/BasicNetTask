@@ -1,0 +1,17 @@
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\bin\Debug\net8.0\WorkerJobs.deps.json
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\bin\Debug\net8.0\WorkerJobs.dll
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\bin\Debug\net8.0\WorkerJobs.pdb
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\bin\Debug\net8.0\Application.dll
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\bin\Debug\net8.0\Domain.dll
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\bin\Debug\net8.0\Application.pdb
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\bin\Debug\net8.0\Domain.pdb
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\WorkerJobs.csproj.AssemblyReference.cache
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\WorkerJobs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\WorkerJobs.AssemblyInfoInputs.cache
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\WorkerJobs.AssemblyInfo.cs
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\WorkerJobs.csproj.CoreCompileInputs.cache
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\WorkerJobs.csproj.CopyComplete
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\WorkerJobs.dll
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\refint\WorkerJobs.dll
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\WorkerJobs.pdb
+C:\Users\Pache\OneDrive\Escritorio\exports\practica\BasicNetTask\WorkerJobs\obj\Debug\net8.0\ref\WorkerJobs.dll
